@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#ff6b81"  # Coral color for primary elements
+backgroundColor = "#f8f9fa"  # Light gray background
+secondaryBackgroundColor = "#dfe4ea"  # Light blue-gray secondary background
+textColor = "#1e272e"  # Dark blue text color
+font = "Roboto, sans-serif"  # Updated font for a modern look
