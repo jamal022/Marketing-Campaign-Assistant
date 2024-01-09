@@ -1,6 +1,7 @@
 # Marketing Campaign Assistant App
 
 Welcome to the Marketing Campaign Assistant App – your go-to solution for effortless marketing content creation!
+![Find Similar Words App](./img.png)
 
 ## Overview
 
